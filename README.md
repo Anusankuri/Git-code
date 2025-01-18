@@ -1,5 +1,3 @@
-# Git-code
-Git-DevOps
 name: CI Pipeline
 
 on:
